@@ -10,4 +10,7 @@ class mahasiswa
     }
 };
 
-int main
+int main()
+{
+    mahasiswa *mhs
+}
